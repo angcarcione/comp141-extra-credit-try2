@@ -1,0 +1,13 @@
+hello
+how
+are
+you
+doing
+today
+this
+is 
+my 
+extra
+credit
+assignment
+file
